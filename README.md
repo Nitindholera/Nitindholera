@@ -1,6 +1,7 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/78020728/178749801-654ad78f-d35d-4f0d-a4b8-8c4e6cd87233.png" alt=”my banner”>
+![banner](https://user-images.githubusercontent.com/78020728/178751353-a97e2b22-b15c-41af-9d54-a021c6473eb5.png)
+
 </p>
 
 <!--
