@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://www.canva.com/design/DAFGTVaCdRk/lu7xqDGwwRHzDtV8d0rq8A/view?utm_content=DAFGTVaCdRk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt=”my banner”>
+
+</p>
 
 <!--
 **Nitindholera/Nitindholera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
