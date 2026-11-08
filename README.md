@@ -4,7 +4,6 @@
 
 [![Nitin's GitHub stats](https://github-stats-extended.vercel.app/api?username=Nitindholera)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitindholera&layout=compact)](https://github.com/Nitindholera)
 </p>
 
 <!--
