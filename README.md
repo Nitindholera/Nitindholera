@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/78020728/178752466-6b8352fc-5a47-4f98-a94d-ca19d6d349e6.png)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Nitindholera)](https://github.com/Nitindholera)
+[![Nitin's GitHub stats](https://github-stats-extended.vercel.app/api?username=Nitindholera)](https://github.com/stats-organization/github-stats-extended)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitindholera&layout=compact)](https://github.com/Nitindholera)
 </p>
