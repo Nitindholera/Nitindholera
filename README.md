@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/78020728/178752466-6b8352fc-5a47-4f98-a94d-ca19d6d349e6.png)
 
-[![Nitin's GitHub stats](https://github-stats-extended.vercel.app/api?username=Nitindholera)]
+![Nitin's GitHub stats](https://github-stats-extended.vercel.app/api?username=Nitindholera)
 
 </p>
 
